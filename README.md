@@ -10,3 +10,6 @@ Proof of concept. Turn docker container into bootable disk image. Contains a lot
 
 ## Overlay
 It conatins minimalistic [init binary](https://github.com/Yelp/dumb-init), some config files and scriptable init hook (`overlay/sbin/init.sh`).
+
+## Demo
+[![asciicast](https://asciinema.org/a/T9xij1txELITLY7xPrG52d00H.svg)](https://asciinema.org/a/T9xij1txELITLY7xPrG52d00H)
